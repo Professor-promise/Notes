@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  outline: 0;
+  border: 0;
+}
+
+:root {
+  --yellowBackground: #f6f68a;
+  --greenBackground: #67d7cc;
+  --grayBackground: #e1e1e1;
+  --darkBackground: #000;
+  --whiteBackground: #fff;
+  --redBackground: #cc1d1d;
+}
+
+body {
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande',
+    'Lucida Sans', Arial, sans-serif;
+}
